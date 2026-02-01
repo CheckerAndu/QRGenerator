@@ -1,4 +1,5 @@
 **###QRGenerator** 
+
 With the QRGenerator you can easily create images of a QR Code, by pasting the link, you want a QR Code for. The program will make a PNG of the QR Code, which will be placed inside of the package folder. 
 
 **###Requirements** 
