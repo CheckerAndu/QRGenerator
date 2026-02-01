@@ -28,4 +28,4 @@ Navigate and find the image in the same folder and open it.
 You can now send the image or scan it yourself. 
 
 
- _Thanks for using my Code!_
+ _Thanks for using my code!_
