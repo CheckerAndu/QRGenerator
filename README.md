@@ -6,7 +6,7 @@ With **QRGenerator**, you don't need fancy software. Just paste your link, name 
 
 ---
 
-## 🛠 Prerequisites
+## 🛠 Requirements
 
 Before running the generator, ensure you have the following installed:
 
