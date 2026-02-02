@@ -7,12 +7,15 @@ With the QRGenerator you can easily create images of a QR Code, by pasting the l
 
 For this to work you need to have Python installed! 
 If you have Python installed you also need to download sengo from pip or pip3! 
-To do this go to cmd (or the Application you use for coding such as VHC, type it in the terminal if that is the case) and download segno. 
-type this --> `pip install segno` if it doesn't work, try --> `pip3 install segno` 
+To do this, go to cmd (or the Application you use for coding such as VHC or even Python, type it in the terminal if that is the case) and download segno. 
+type this --> `pip install segno` if it doesn't work, try --> `pip install --user segno` and if you still get an error try --> `python -m pip install segno`  
 
 
 **###Step_By_Step** 
-1. Getting the Link
+1. Opening the Program
+Open the program, with Python or another Application or even cmd.
+  
+2. Getting the Link
 Firstly, the program will ask you to paste a link for making the QR Code. 
 To copy a link for an image, right click on the image and click on "Copy image link". 
 To copy a normal link, just copy the link you see at the top of you browser. 
