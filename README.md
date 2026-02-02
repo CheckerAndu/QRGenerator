@@ -1,34 +1,35 @@
-**###QRGenerator** 
+# 📱 QRGenerator
 
-With the QRGenerator you can easily create images of a QR Code, by pasting the link, you want a QR Code for. The program will make a PNG of the QR Code, which will be placed inside of the package folder. 
+A lightweight, user-friendly Python tool to turn any URL into a high-quality QR code instantly. 
 
-**###Requirements** 
-**VERY IMPORTANT!** 
+With **QRGenerator**, you don't need fancy software. Just paste your link, name your file, and your PNG is ready to share.
 
-For this to work you need to have Python installed! 
-If you have Python installed you also need to download sengo from pip or pip3! 
-To do this, go to cmd (or the Application you use for coding such as VHC or even Python, type it in the terminal if that is the case) and download segno. 
-type this --> `pip install segno` if it doesn't work, try --> `pip install --user segno` and if you still get an error try --> `python -m pip install segno`  
+---
+
+## 🛠 Prerequisites
+
+Before running the generator, ensure you have the following installed:
+
+* **Python 3.x**: [Download it here](https://www.python.org/downloads/)
+* **Segno Library**: The "engine" that builds the QR codes.
+
+### Installation
+Open your terminal (CMD, PowerShell, or VS Code Terminal) and run:
+
+```bash
+pip install segno
+```
+if it does not work, try 
+
+```bash 
+pip python -m pip install segno
+``` 
+or 
+
+```bash 
+pip install --user segno 
+``` 
+
+_Thanks for using my code!_
 
 
-**###Step_By_Step** 
-1. Opening the Program
-Open the program, with Python or another Application or even cmd.
-  
-2. Getting the Link
-Firstly, the program will ask you to paste a link for making the QR Code. 
-To copy a link for an image, right click on the image and click on "Copy image link". 
-To copy a normal link, just copy the link you see at the top of you browser. 
-
-3. Giving a Name
-The program will next ask you to name the image of the QR Code.
-You can use names that are seperated by a `_` - for example: `my_qr_code` or `qr_code_image` or even `rick_roll_qr`. 
-DO NOT add a `.png` to the name, the program will automatically add that, when making the QR Code. 
-
-4. Claiming your QR Code image
-The program will next tell you, that it has created the image and that you can find it in the same folder as the package or script. 
-Navigate and find the image in the same folder and open it. 
-You can now send the image or scan it yourself. 
-
-
- _Thanks for using my code!_
