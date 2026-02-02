@@ -17,5 +17,7 @@ def generate_qr():
     qrcode.save(f"{filename}.png", scale=10)
 
     print(f"Success! Check your folder for the file: {filename}.png")
+    time.sleep(1)
+    input("\nDone! Press Enter to exit...")
 
 generate_qr()
