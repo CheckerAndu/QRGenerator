@@ -1,6 +1,6 @@
 # 📱 QRGenerator
 
-A lightweight, user-friendly Python tool to turn any URL into a high-quality QR code instantly. 
+A lightweight, user-friendly Python tool to turn any URL into a QR code instantly. 
 
 With **QRGenerator**, you don't need fancy software. Just paste your link, name your file, and your PNG is ready to share.
 
